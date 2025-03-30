@@ -20,5 +20,3 @@
 - ⚡ Fun fact **I am not cooking up the cooks!**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unclevak&show_icons=true&locale=en" alt="unclevak" /></p>
-
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unclevak&" alt="unclevak" /></p>
