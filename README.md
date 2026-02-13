@@ -4,7 +4,7 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img alt="Drew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=unclevak&show_icons=true&theme=default" />
+  <img alt="Drew's GitHub stats" src="https://img.shields.io/github/commit-activity/:interval/unclevak/:repo" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclevak&layout=compact&theme=default" />
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=unclevak&theme=default&no-frame=true" />
 </p>
