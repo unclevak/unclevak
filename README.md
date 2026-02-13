@@ -2,12 +2,8 @@
 
 > 聞くは一時の恥、聞かぬは一生の恥 — "Better to ask and be embarrassed than not ask and never know."
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img alt="Drew's GitHub stats" src="https://img.shields.io/github/commit-activity/:interval/unclevak/:repo" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclevak&layout=compact&theme=default" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=unclevak&theme=default&no-frame=true" />
-</p>
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=Welcome&title=I%27m+Drew&desc=%E8%81%9E%E3%81%8F%E3%81%AF%E4%B8%80%E6%99%82%E3%81%AE%E6%81%A5%E8%81%9E%E3%81%8B%E3%81%AC%E3%81%AF%E4%B8%80%E7%94%9F%E3%81%AE%E6%81%A5+%E2%80%94+%22Better+to+ask+and+be+embarrassed+than+not+ask+and+never+know.%22&theme=dark)](https://github.com/your-username/your-repo)
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=2jd91T19lNGqk5xWpTMhuZ&userName=Drew&style=bar&color=000000)](https://github.com/your-username/your-repo)
 
 ---
 
