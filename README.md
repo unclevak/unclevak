@@ -37,7 +37,8 @@ I'm an Information Technology student (A+, Network+, Security+) building practic
 ## ⭐ Favorite Tech Stack
 
 Convex/Supabase · Next.js · Clerk · Vercel · shadcn/ui · Tailwind CSS
-[![My Tech Stack](https://skillicons.dev/icons?i=supabase,nextjs,clerk,vercel,tailwind)](https://skillicons.dev)
+
+[![My Tech Stack](https://skillicons.dev/icons?i=supabase,nextjs,vercel,tailwind)](https://skillicons.dev)
 
 ---
 
