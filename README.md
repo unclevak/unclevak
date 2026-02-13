@@ -69,9 +69,3 @@ I contribute to tooling and small libraries around the stack above and maintain 
 ## 💬 What I’m looking for
 
 Open to full-time roles, contracting, partnerships, and hiring collaborators for INGEN Cloud and app development.
-
----
-
-## ✨ Favorite quote
-
-聞くは一時の恥聞かぬは一生の恥 — "Better to ask and be embarrassed than not ask and never know."
