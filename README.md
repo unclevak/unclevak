@@ -30,6 +30,8 @@ I'm an Information Technology student (A+, Network+, Security+) building practic
 - DevOps & Infra: CI/CD · Git · Infrastructure as code · Monitoring & observability
 - Tools: VS Code · GitHub · Postman
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,tailwindcss,postgres,docker,linux,git)](https://skillicons.dev)
+
 ---
 
 ## ⭐ Favorite Tech Stack
